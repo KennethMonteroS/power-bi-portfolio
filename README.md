@@ -1,2 +1,58 @@
-# power-bi-portfolio
-Power BI dashboards designed to analyze data, identify trends, and support data-driven decision-making.
+# Analytics & BI Portfolio - Kenneth Montero Suárez
+
+Welcome to my Power BI portfolio. This repository contains a collection of projects focused on data analysis, business intelligence, and dashboard development, showcasing how data can be transformed into actionable insights through effective visualization.
+
+## About Me
+
+Hi, I'm Kenneth Montero Suárez, a data analyst with a strong interest in business intelligence, data visualization, and analytical problem-solving.
+
+Through this portfolio, I showcase projects where I apply Power BI to explore data, build interactive dashboards, and communicate insights in a clear way.
+
+## Tools
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Projects
+
+### 1. Sales Performance Dashboard
+
+**Description**
+
+This dashboard analyzes sales performance across different regions, products, and time periods.
+
+**Key Insights**
+
+- Identified top performing regions
+- Analyzed monthly sales trends
+- Evaluated product category performance
+
+**Tools Used**
+
+Power BI, Power Query, DAX
+
+**Files**
+
+- `sales_dashboard.pbix`
+- `sales_dataset.csv`
+
+![Dashboard Preview](images/sales_dashboard.png)
+
+
+## Dataset Sources
+
+Datasets used in these projects come from:
+
+- Kaggle
+- Public datasets
+- Sample business datasets
+
+## Contact
+
+LinkedIn: [https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/kenneth-montero-suarez/)
+
+Email: k.montero.s@outlook.com
