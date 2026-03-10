@@ -19,7 +19,7 @@ Through this portfolio, I showcase projects where I apply Power BI to explore da
 
 ## Projects
 
-### 1. Sales Performance Dashboard
+### Project 01. Employee Performance Dashboard
 
 **Description**
 
