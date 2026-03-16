@@ -19,4 +19,4 @@ Power BI, Power Query, DAX
 - `sales_dashboard.pbix`
 - `sales_dataset.csv`
 
-![Dashboard Preview](images/sales_dashboard.png)
+![Dashboard Preview](employee-performance-dashboard.png)
