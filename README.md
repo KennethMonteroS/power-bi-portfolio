@@ -18,6 +18,6 @@ Through this portfolio, I showcase projects where I apply Power BI to explore da
 
 ## Contact
 
-LinkedIn: [https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/kenneth-montero-suarez/)
+LinkedIn: [https://www.linkedin.com/in/kenneth-montero-suarez/](https://www.linkedin.com/in/kenneth-montero-suarez/)
 
 Email: k.montero.s@outlook.com
