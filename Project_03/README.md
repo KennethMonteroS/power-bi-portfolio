@@ -10,22 +10,16 @@ The goal is to explore whether geographic patterns exist in contamination levels
 
 **Data Source:** Public water quality monitoring dataset.
 
----
-
 ## General Objective
 
 Analyze water quality data to identify patterns in contamination levels and explore possible geographic trends using exploratory data analysis and machine learning techniques.
-
----
 
 ## Specific Objectives
 
 - Clean and preprocess the dataset to ensure data quality and consistency.
 - Perform exploratory data analysis to understand the distribution and relationships between water quality parameters.
-- Analyze correlations between physicochemical and microbiological indicators.
 - Apply the **K-Means clustering algorithm** to identify groups of monitoring sites with similar contamination characteristics.
 
----
 
 ## Data Preparation
 
@@ -40,8 +34,6 @@ Several data preprocessing steps were performed to improve data quality and ensu
 
 These steps ensured the dataset was suitable for statistical analysis and machine learning modeling.
 
----
-
 ## Exploratory Data Analysis
 
 Exploratory analysis was conducted to understand the behavior of key water quality indicators.
@@ -53,9 +45,11 @@ The analysis included:
 - Distribution analysis of water quality parameters
 - Correlation matrix to identify relationships between variables
 
-Strong correlations were observed between certain microbiological indicators, which is expected given their similar environmental origin.
+## Correlation Analysis
 
----
+A correlation matrix was used to explore relationships between key water quality indicators.
+
+![Correlation Matrix](correlation_matrix.png)
 
 ## Machine Learning Model
 
@@ -68,7 +62,6 @@ Two methods were used to determine the optimal number of clusters:
 
 Both approaches suggested an optimal clustering around **k = 3**, leading to the identification of three distinct groups of monitoring sites.
 
----
 
 ## Clustering Analysis
 
@@ -76,18 +69,14 @@ The clustering analysis incorporated both **geographic variables** (latitude and
 
 The results revealed three clusters representing different contamination profiles across monitoring locations.
 
-Visualization of these clusters helped highlight geographic trends in water contamination levels.
 
-
-
----
+![K-Means Clustering](clusters.png)
 
 ## Repository Structure
 
 - `Proyecto_ML_Grupo_4.ipynb` – Data cleaning, exploratory analysis, and machine learning implementation
 - `README.md` – Project documentation
 
----
 
 ## Skills Demonstrated
 
