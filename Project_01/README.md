@@ -2,7 +2,7 @@
 
 ## Overview
 
-Multishop S.A is a fictitious department store that lacks a centralized data structure to manage its operational data. Information related to branches, suppliers, products, customers, sales, and sales agents is currently scattered across multiple files and formats.
+Multishop S.A. is a fictitious department store that lacks a centralized data structure to manage its operational data. Information related to branches, suppliers, products, customers, sales, and sales agents is currently scattered across multiple files and formats.
 
 This project focuses on designing and implementing a relational database using SQL to centralize and structure the company’s data, enabling efficient data management and supporting data-driven decision making.
 
