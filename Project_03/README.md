@@ -1,4 +1,4 @@
-# Project 02 – Water Quality Analysis and Clustering (Machine Learning)
+# Project 03 – Water Quality Analysis and Clustering (Machine Learning)
 
 ## Overview
 
