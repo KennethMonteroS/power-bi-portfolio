@@ -1,7 +1,8 @@
-# International Debt Analysis
+# Project 01. Employee Performance Dashboard
 
 ## Project Overview
-This project explores international debt data from The World Bank using SQL.
+
+This dashboard analyzes sales performance across different regions, products, and time periods.
 
 ## Objectives
 - Analyze debt by country
@@ -13,5 +14,7 @@ This project explores international debt data from The World Bank using SQL.
 - Data exploration
 - Aggregations
 
-## Files
+**Files**
 - queries.sql
+
+![Dashboard Preview](images/sales_dashboard.png)
