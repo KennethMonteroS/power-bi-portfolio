@@ -75,7 +75,7 @@ The results revealed three clusters representing different contamination profile
 ## Repository Structure
 
 - `Proyecto_ML_Grupo_4.ipynb` – Data cleaning, exploratory analysis, and machine learning implementation
-- `README.md` – Project documentation
+- `Aguas_superficiales_2020.csv` – Dataset
 
 
 ## Skills Demonstrated
