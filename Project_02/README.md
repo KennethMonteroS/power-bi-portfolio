@@ -1,4 +1,4 @@
-### Project 01. Employee Performance Dashboard
+### Project 02. Employee Performance Dashboard
 
 **Description**
 
