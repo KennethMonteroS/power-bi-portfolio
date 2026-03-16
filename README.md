@@ -19,6 +19,13 @@ Through this portfolio, I showcase projects where I apply Power BI to explore da
 
 ## Projects
 
+
+| Project Name | Description | Tools Used |
+|--------------|-------------|-------|
+| [Project 01 - ](Project 01 - ) | Wrote SQL queries to answer interesting questions about international debt data from The World Bank | data manipulation, importing and cleaning data |
+| Project 02 - | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to | data manipulation and joins |
+
+
 ### Project 01. Employee Performance Dashboard
 
 **Description**
