@@ -34,7 +34,7 @@ This dashboard helps:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](employee-performance-dashboard.png)
+![Dashboard Preview](twitch-dashboard.png)
 
 ---
 
