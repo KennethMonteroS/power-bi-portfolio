@@ -41,8 +41,11 @@ Primary Keys (**PK**) and Foreign Keys (**FK**) are used to maintain **referenti
 
 The SQL queries used to create the database and perform the analysis are available in the repository.
 
-- `multishop_database_creation.sql` – contains the database schema and table creation statements.
-- `multishop_queries.sql` – contains analytical queries used to extract insights from the data.
+- [multishop_database_creation](multishop_database_creation.sql) – contains the database schema and table creation statements.
+- [multishop_queries](multishop_queries.sql) – contains analytical queries used to extract insights from the data.
+
+
+
 
 ## Skills Demonstrated
 
