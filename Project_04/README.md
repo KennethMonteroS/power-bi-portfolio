@@ -29,8 +29,8 @@ This dashboard helps:
 
 ## 📂 Files
 
-- Power BI file: [Employee_Performance_Dashboard](Employee_Performance_Dashboard.pbix)
-- Dataset: [Employee_Performance_Dataset](Employee_Performance_Dataset.xlsb)
+- Power BI file: [Twitch_Dashboard](Twitch_Dashboard.pbix)
+- Datasets: [StreamsInfo_Dataset](StreamsInfo_Dataset.xlsx), [GamesInfo_Dataset](GamesInfo_Dataset.xlsx), 
 
 ## 📷 Dashboard Preview
 
