@@ -1,6 +1,6 @@
 # Analytics & BI Portfolio - Kenneth Montero Suárez
 
-Welcome to my Power BI portfolio. This repository contains a collection of projects focused on data analysis, business intelligence, and dashboard development, showcasing how data can be transformed into actionable insights through effective visualization.
+Welcome to y Data Analytics & Business Intelligence portfolio. This repository contains a collection of projects focused on data analysis, business intelligence, and dashboard development, showcasing how data can be transformed into actionable insights through effective visualization.
 
 ## 📝 About Me
 
