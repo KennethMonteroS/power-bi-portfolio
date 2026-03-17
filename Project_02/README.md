@@ -2,14 +2,16 @@
 
 ## Description
 
-This project analyze employee performance, workforce distribution, and key HR metrics. The dashboard provides a comprehensive view of employee-related data, including headcount, attrition, performance ratings, salaries, and training impact, enabling data-driven decision-making in human resources.
+This project analyzes employee performance, workforce distribution, and key HR metrics through an interactive Power BI dashboard.
+
+It provides a comprehensive view of employee data, including headcount, attrition, performance ratings, salaries, and training impact, enabling data-driven decision-making in human resources.
 
 ## Key Insights
 
-- **Attrition Analysis:** Identified an attrition rate close to 20%, highlighting potential retention challenges within the organization.
-- **Department-Level Insights:** Store Operations and Logistics show the highest number of exits, suggesting areas that may require attention.
-- **Workforce Distribution:** The majority of employees fall within the 25–34 age group, indicating a relatively young workforce.
-- **Training vs Performance:** A positive relationship exists between training hours and performance rating, suggesting training contributes to improved employee performance.
+- **Attrition Analysis:** The attrition rate is close to 20%, indicating potential retention issues that may require strategic HR interventions.
+- **Department-Level Insights:** Store Operations and Logistics have the highest number of exits, suggesting possible operational or management challenges in these areas.
+- **Workforce Distribution:** Most employees are between 25–34 years old, indicating a predominantly young workforce.
+- **Training vs Performance:** A positive relationship between training hours and performance rating suggests that increasing training efforts may improve overall employee performance.
 
 ## Tools Used
 
