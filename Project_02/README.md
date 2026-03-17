@@ -18,5 +18,6 @@ Power BI, Power Query, DAX
 
 - `sales_dashboard.pbix`
 - `sales_dataset.csv`
+- Power BI file: [Download .pbix](Employee_Performance_Dataset.pbix)
 
 ![Dashboard Preview](employee-performance-dashboard.png)
