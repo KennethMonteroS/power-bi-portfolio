@@ -1,4 +1,4 @@
-# Project 04. Twitch Streaming Analytics Dashboard
+# Project 04 - Twitch Streaming Analytics Dashboard
 
 ## 📌 Description
 
@@ -29,8 +29,10 @@ This dashboard helps:
 
 ## 📂 Files
 
-- Power BI file: [Twitch_Dashboard](Twitch_Dashboard.pbix)
-- Datasets: [StreamsInfo_Dataset](StreamsInfo_Dataset.xlsx), [GamesInfo_Dataset](GamesInfo_Dataset.xlsx), 
+- Power BI file: [Download .pbix](Twitch_Dashboard.pbix)  
+- Datasets:  
+  - [Streams Info Dataset](StreamsInfo_Dataset.xlsx)  
+  - [Games Info Dataset](GamesInfo_Dataset.xlsx)  
 
 ## 📷 Dashboard Preview
 
