@@ -13,7 +13,7 @@ This project analyze employee performance, workforce distribution, and key HR me
 
 ## Tools Used
 
-Power BI, Power Query, DAX
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## Files
 
