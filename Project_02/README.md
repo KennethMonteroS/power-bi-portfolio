@@ -1,23 +1,27 @@
-### Project 02. Employee Performance Dashboard
+# Project 02. Employee Performance Dashboard
 
-**Description**
+## Description
 
-This dashboard analyzes sales performance across different regions, products, and time periods.
+This project analyze employee performance, workforce distribution, and key HR metrics. The dashboard provides a comprehensive view of employee-related data, including headcount, attrition, performance ratings, salaries, and training impact, enabling data-driven decision-making in human resources.
 
-**Key Insights**
+## Key Insights
 
-- Identified top performing regions
-- Analyzed monthly sales trends
-- Evaluated product category performance
+- **Attrition Analysis:** Identified an attrition rate close to 20%, highlighting potential retention challenges within the organization.
+- **Department-Level Insights:** Store Operations and Logistics show the highest number of exits, suggesting areas that may require attention.
+- **Workforce Distribution:** The majority of employees fall within the 25–34 age group, indicating a relatively young workforce.
+- **Training vs Performance:** A positive relationship exists between training hours and performance rating, suggesting training contributes to improved employee performance.
 
-**Tools Used**
+## Tools Used
 
 Power BI, Power Query, DAX
 
-**Files**
+## Files
 
-- `sales_dashboard.pbix`
-- `sales_dataset.csv`
-- Power BI file: [Download .pbix](Employee_Performance_Dataset.pbix)
+- Power BI file: [Employee_Performance_Dashboard](Employee_Performance_Dashboard.pbix)
+- Dataset: [Employee_Performance_Dataset](Employee_Performance_Dataset.xlsb)
+
+---
 
 ![Dashboard Preview](employee-performance-dashboard.png)
+
+---
