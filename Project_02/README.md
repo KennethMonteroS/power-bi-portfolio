@@ -22,6 +22,8 @@ It provides a comprehensive view of employee data, including headcount, attritio
 - Power BI file: [Employee_Performance_Dashboard](Employee_Performance_Dashboard.pbix)
 - Dataset: [Employee_Performance_Dataset](Employee_Performance_Dataset.xlsb)
 
+[Download Power BI file](https://github.com/KennethMonteroS/data-analytics-bi-portfolio/edit/main/Project_02/Employee_Performance_Dashboard.pbix?raw=true)
+
 ---
 
 ![Dashboard Preview](employee-performance-dashboard.png)
